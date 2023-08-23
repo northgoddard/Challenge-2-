@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
-    background-color: lightcyan;
+    background-color: white;
     line-height: 1.3;
 }
 
@@ -25,7 +25,7 @@ header {
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-color: aquamarine;
+    background-color: grey;
     box-shadow: 0 10px 20px gray;
 }
 
@@ -37,7 +37,7 @@ nav {
 
 nav a {
     font-size: 1.5rem;
-    background-color: rgb(29, 29, 189);
+    background-color: black;
     color: whitesmoke;
     margin-right: 5px;
     padding: 10px;
@@ -76,7 +76,7 @@ main {
 }
 
 .hero-banner h2 {
-    background-color: aquamarine;
+    background-color: grey;
     color: black;
     margin: 0;
     font-size: 2rem;
@@ -102,7 +102,7 @@ main {
 .pagesection > h2 {
     flex: 0 0 20%;
     text-align: right;
-    border-right: 5px blue;
+    border-right: 5px;
     padding-right: 10px;
     line-height: 1.5;
     font-size:  3rem; 
@@ -123,8 +123,8 @@ main {
 }
 
 .flex-item {
-    border: 5px cornflowerblue;
-    background-color: aquamarine;
+
+    
     min-height: 150px;
     max-height: 150px;
     display: flex;
@@ -147,7 +147,7 @@ main {
 }
 
 .flex-item div {
-    background-color: rgb(20, 219, 189);
+    background-color: grey;
     padding: 10px 12px;
 }
 
@@ -171,7 +171,7 @@ main {
 
 .contact address a:hover {
     background-size: 100% 88%; 
-    color: aqua;
+    color: blueviolet;
 }
 
 .run-buddy {
