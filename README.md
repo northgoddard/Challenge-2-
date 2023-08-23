@@ -16,6 +16,8 @@ This project was done to test my skills with HTML and CSS as well as creating a 
 
 ## Link
 
+https://northgoddard.github.io/My-Portfolio/
+
 ## Creator
 
 - North Goddard (https://github.com/northgoddard)
